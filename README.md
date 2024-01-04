@@ -1,7 +1,7 @@
 # [Kaggle Leaf Classification](https://www.kaggle.com/c/leaf-classification) - Neural Network Approach
 In This Project, We have analyzed different hyperparameters of neural networks and preprocessing techniques to see their effect on Accuracy and Loss.
 <br />
-The whole process is done on [Kaggle Leaf Classification Challenge](https://www.kaggle.com/c/leaf-classification).
+The whole process is done on [Kaggle Leaf Classification Competition](https://www.kaggle.com/c/leaf-classification).
 <br />
 For neural network programming, [pytorch](https://pytorch.org/) framework is used. 
 <br />
