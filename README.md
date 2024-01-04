@@ -94,3 +94,9 @@ Here is the accuracy plot for network with tuned hyperparameters.
 <br />
 ![tuned network](https://github.com/ahmad-sohrabi/Kaggle-Leaf-Classification/blob/main/results/bestResultAcc.png?raw=true)
 <br />
+## Kaggle Score on Test Dataset
+After Hyperparameter tuning in the last part, kaggle score on test data is as below:
+<br />
+![kaggle test result](https://github.com/ahmad-sohrabi/Kaggle-Leaf-Classification/blob/main/results/kaggle%20result.png?raw=true)
+<br />
+
